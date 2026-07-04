@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Database configuration (passwords)
+config.py
+
+# Generated files
+expenses.csv
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
